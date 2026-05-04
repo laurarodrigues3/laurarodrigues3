@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:24283b,100:414868&height=220&section=header&text=Laura%20Rodrigues&fontSize=45&fontAlignY=38&fontColor=70A5FD&animation=fadeIn&desc=Computer%20Science%20%7C%20Instituto%20Superior%20T%C3%A9cnico&descAlignY=58&descSize=16&descColor=a9b1d6)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=70A5FD&center=true&vCenter=true&random=false&width=580&lines=Distributed+Systems+%7C+Containerization+%7C+Data+Pipelines;Exploring+Cloud-Native+Engineering;AWS+%7C+Docker+%7C+Terraform+%7C+CI%2FCD)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=70A5FD&center=true&vCenter=true&random=false&width=700&lines=Distributed+Systems+%7C+Containerization+%7C+Data+Pipelines;Exploring+Cloud-Native+Engineering;AWS+Cloud+Practitioner+in+Preparation)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laurarodrigues3/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lauramrodrigues.it@gmail.com)
