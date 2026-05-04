@@ -13,8 +13,8 @@
 
 ### 👩‍💻 About Me
 
-- 🎓 BSc in Computer Science from **Universidade do Algarve**
 - 🏛️ Postgraduate year at **Instituto Superior Técnico**, University of Lisbon
+- 🎓 BSc in Computer Science from **Universidade do Algarve**
 - ☁️ Preparing for the **AWS Cloud Practitioner** certification
 - 🌱 Currently building skills in **Terraform** and **CI/CD**
 - 📍 Based in Lisbon, Portugal
@@ -34,7 +34,6 @@
 **Cloud & Infrastructure**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
 **Data & Messaging**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -49,11 +48,5 @@
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 ![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white)
-
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
-</div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:24283b,100:414868&height=120&section=footer)
